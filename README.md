@@ -21,10 +21,17 @@ height="40" hspace="10"/> </a> <a href="https://git-scm.com/" target="_blank" re
 </a><a href="https://docs.flame-engine.org/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/Anshu-Parmar/FlappyBirdGame/assets/92868018/1e9aa3f2-d614-4010-81c9-84d8991adb6d" alt="flame" 
 width="40" height="40" hspace="10"/> </a>  </p>
 
-About:
-This project is a Flutter implementation of the classic Flappy Bird game using the Flame game engine. It offers an interactive and enjoyable gaming experience.
+<h3 align="left">About:</h3>
+<p>This project is a Flutter implementation of the classic Flappy Bird game using the Flame game engine. It offers an interactive and enjoyable gaming experience.</p>
 
-Acknowledgments
-Special thanks to [code-Sajjad](https://github.com/HeyFlutter-Public/flappy_bird_game)
- for their guidance and inspiration throughout the project. I learned and created this project with their valuable insights.
+<h3 align="left">Acknowledgments:</h3>
+Special thanks to [code-Sajjad] for their guidance and inspiration throughout the project. 
+I learned and created this project with their valuable insights.
+
+<h3 align="left">Getting Started:</h3>
+<p>Follow these steps to run the project locally:<br>
+1. Clone the repository: git clone https://github.com/Anshu-Parmar/FlappyBirdGame/flappy_bird.git<br>
+2. Navigate to the project directory: cd flappy_bird<br>
+3. Run the application: flutter run<br>
+4. Feel free to explore and modify the game to suit your preferences. Happy coding!</p>
 
