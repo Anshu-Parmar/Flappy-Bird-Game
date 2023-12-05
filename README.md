@@ -25,8 +25,8 @@ width="40" height="40" hspace="10"/> </a>  </p>
 <p>This project is a Flutter implementation of the classic Flappy Bird game using the Flame game engine. It offers an interactive and enjoyable gaming experience.</p>
 
 <h3 align="left">Acknowledgments:</h3>
-Special thanks to [code-Sajjad] for their guidance and inspiration throughout the project. 
-I learned and created this project with their valuable insights.
+<p>Special thanks to <a href = "https://github.com/HeyFlutter-Public/flappy_bird_game">code-Sajjad</a> for their guidance and inspiration throughout the project. 
+I learned and created this project following their valuable insights.</p>
 
 <h3 align="left">Getting Started:</h3>
 <p>Follow these steps to run the project locally:<br>
